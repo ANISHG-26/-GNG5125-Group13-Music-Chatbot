@@ -6,4 +6,4 @@ This repository contains the scripts utilized in our Music Recommendation Chatbo
 
   - Data Cleaning Utility: Python Script to clean our Dataset sourced from https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset.
   - Notebooks: We performed our experimentation in these notebooks.
-  - Recommendation App - Flask Backend Application that hosts our recommendation system and connects with our DialogueFlow Frontent.
+  - Recommendation App - Flask Backend Application that hosts our recommendation system and connects with our DialogueFlow Frontend.
